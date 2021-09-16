@@ -80,7 +80,7 @@ The following devices have been tested in our experiments with the experimental 
 
 <sup>2</sup> BPK = Beside Power Key
 
-## How to generate the Fingerprints?
+## How to collect the fingerprints?
 
  As shown in the following figure, we collect MI signals emitted from the CPU models with a magnetic-field sensor DRV425 from Texas Instruments (TI), and conduct AD conversion with a data acquisition (DAQ) card U2541A from Keysight at a sampling rate of 200 kHz.
 
