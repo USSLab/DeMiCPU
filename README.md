@@ -5,7 +5,7 @@ With the widespread use of smart devices, device authentication has received muc
 
 
 ## How does DeMiCPU work？
-
+DeMiCPU is a device fingerprinting scheme consisting of a trusted DeMiCPU server, a stimulation program on the target device, and a trusted stand-alone DeMiCPU capturing module with a built-in magnetic sensor  as shown in the Figure, and it works as follows. Once an application requests for device fingerprinting, DeMiCPU starts the stimulation program, and the DeMiCPU sensor measures and packages the measurements with protection and uploads the packaged measurements to the DeMiCPU server for fingerprint matching.
 <center>
     <img  src="./images/Workflow.png" width="600" >
     <br>
